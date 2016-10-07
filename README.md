@@ -22,7 +22,11 @@ Used in a Udacity course in the Beginning Android Nanodegree.
 - Working with Images
 - Following Designer Redlines
 
-####Lesson 4
+###Lesson 4
+- How to add Audio effectively
+
+###Lesson 5
+- Fragments, ViewPager, and TabLayout
 
 --------------
 
